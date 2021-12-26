@@ -4,7 +4,7 @@
     flex-direction: column;
     min-width: 0;
     word-wrap: break-word;
-    background: #fff;
+    background: rgb(202, 175, 86);
     background-clip: border-box;
     border: 1px solid rgba(0, 0, 0, 0.2);
     border-radius: .25rem;
@@ -26,6 +26,7 @@
 .card {
     padding: 20px;
     margin: 50px;
+    background-color: whitesmoke;
 }
 
 .card img {
